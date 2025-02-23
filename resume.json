@@ -9,7 +9,9 @@
         "aboutme": "自我介绍"
     },
     "avatar": {
-        "hidden": false
+        "hidden": false,
+        "src": "https://blog.koreti.site/wp-content/uploads/2018/03/head-150x150.jpg",
+        "shape": "square"
     },
     "profile": {
         "name": "肖嘉俊",
