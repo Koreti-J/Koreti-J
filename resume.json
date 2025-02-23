@@ -41,7 +41,7 @@
         "company_name": "广州喵莉网络有限公司",
         "department_name": "技术部",
         "work_time": ["2023", "04", ""],
-        "work_desc": "1. 担任蚂蚁高管决策和管理协同产品 “数据作战室” 的前端负责人\r\n2. 负责蚂蚁敏捷 BI 产品 “DeepInsight” 的可视分析模块产品能力建设\n3. 数据可视化 AntV 团队核心成员，负责 G2、G2Plot 开源技术的建设",
+        "work_desc": "远程管理香港/新加坡/日本等6个地区IDC网络，包括Cisco，Huawei，Juniper网络设备，确保数据中心网络稳定性和高可用性\n7x24远程智能监控，2024全年重大事故0发生，客户满意度98.7%",
         "dataIndex": 0
     }, {
         "company_name": "广东三合电子实业有限公司",
@@ -52,23 +52,19 @@
     }],
     "skillList": [],
     "projectList": [{
-        "project_name": "数据作战室",
-        "project_role": "前端负责人",
+        "project_name": "香港网络升级",
+        "project_role": "网络实施负责人",
         "project_time": "2019.04 - 2020.06",
-        "project_desc": "面向总裁和高管以及决策 BI 的数字化经营决策和管理协同产品。提供一站式的数据化经营决策和管理协同功能，让高管高效获取决策信息，并提升管理效率。",
-        "project_content": "1. 项目从0到1的框架设计和开发 2. 产品体验精雕细琢的打磨 3. 建立稳定性保障机制。目前仍在迭代中，帮助提升高管业务决策效率"
+        "project_desc": "",
+        "project_content": "\n1.主导从传统三层架构到Spine-Leaf架构升级，基于VXLAN+EVPN实现跨机柜大二层网络\n2.新增 2台Juniper MX204路由器 作为出口负载核心，采用EBGP+ECMP构建多ISP智能选路，出口带宽扩容至400Gbps\n3.淘汰华为、H3C等老旧设备，业务网替换为思科Nexus系列",
+        "dataIndex": 0
     }, {
-        "project_name": "DeepInsight",
-        "project_role": "可视分析负责人",
-        "project_time": "2018.07 - 2019.04 / 2020.07 - 至今",
-        "project_desc": "DeepInsight 是蚂蚁集团自主研发的自助式 BI 数据洞察分析平台，面向企业分析人员、业务人员和开发人员，帮助蚂蚁集团实现精细化运营。",
-        "project_content": "BI 平台工具核心部分是报表制作，也就是通过数据连接、可视化配置形成图表物料之后，通过拖拽方式进行页面编排，最终形成报表页面进行发布的过程。\n1. 主导开放能力建设，拉通产品、设计建设和扩展可视化图形，提升丰富度\n2. 产品体验优化，尤其是对 ECharts 的体验顽疾进行攻克\n3. 主导可视化能力建设：业务标准化图表库建设(通用组件设计和开发经验丰富)、促进数据分析能力增强等可视化一体化建设"
-    }, {
-        "project_name": "G2、G2Plot",
-        "project_role": "核心开发者",
-        "project_time": "2019 - 至今",
-        "project_desc": "G2 是基于图形语法理论的可视化渲染引擎，G2Plot 是在 G2 基础上封装的开箱即用的统计可视化图表库",
-        "project_content": "AntV 可视化建设，赋能整个蚂蚁和阿里集团统计可视化分析相关业务。负责 AntV 系列: AntV 官网、G 渲染引擎、 G2、G2Plot、ThemeSet 主题构建器等开源项目的研发工作。"
+        "project_name": "广州中医药大学",
+        "project_role": "网络实施负责人",
+        "project_time": "2021.12 - 2022.06",
+        "project_desc": "",
+        "project_content": "1.完成12栋教学/实验楼宇的无线网络现场勘查，输出覆盖门诊教学区、实验室、博物馆等特殊场景的定制化无线网规图\n2.现场协调校方信息中心、施工方、设备供应商、制定里程碑计划并推动落地，保障项目按期交付\n4.完成2台无线控制器（AC）、100+台接入交换机及2000+台 Wi-Fi 6 AP的安装调试，搭建NCE-Campus进行管理\n5.通过信道优化、功率调整等策略，大会堂下AP平均并发接入量提升至120台/AP",
+        "dataIndex": 1
     }],
     "workList": [],
     "aboutme": {
