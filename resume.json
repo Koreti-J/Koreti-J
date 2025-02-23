@@ -70,7 +70,7 @@
     "projectList": [{
         "project_name": "香港网络升级",
         "project_role": "网络实施负责人",
-        "project_time": "2019.04 - 2020.06",
+        "project_time": "2023.06 - 2024.09",
         "project_desc": "",
         "project_content": "\n1.主导从传统三层架构到Spine-Leaf架构升级，基于VXLAN+EVPN实现跨机柜大二层网络\n2.新增 2台Juniper MX204路由器 作为出口负载核心，采用EBGP+ECMP构建多ISP智能选路，出口带宽扩容至400Gbps\n3.淘汰华为、H3C等老旧设备，业务网替换为思科Nexus系列",
         "dataIndex": 0
