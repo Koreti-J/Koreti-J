@@ -63,16 +63,17 @@
     "skillList": [{
         "skill_name": "路由交换技术",
         "skill_level": 95,
+        "skill_desc": "路由交换技术",
         "dataIndex": 0
     }, {
         "skill_name": "主流厂商配置",
         "skill_level": 80,
-        "skill_desc": "",
+        "skill_desc": "主流厂商配置",
         "dataIndex": 1
     }, {
         "skill_name": "网络排障",
         "skill_level": 80,
-        "skill_desc": "",
+        "skill_desc": "网络排障",
         "dataIndex": 2
     }],
     "projectList": [{
