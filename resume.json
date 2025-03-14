@@ -34,16 +34,16 @@
         "award_info": "HCIE-Routing&Switching",
         "award_time": "2019",
         "dataIndex": 0
-    }, {
-        "award_info": "计算机网络管理员4级",
-        "award_time": "2017",
-        "dataIndex": 1
-    }, {
+    },{
         "award_info": "全国职业院校技能大赛“神州数码DCN杯”网络搭建与应用团体二等奖",
         "award_time": "2017",
         "dataIndex": 1
     }, {
         "award_info": "新华三杯全国IT技术大赛一等奖",
+        "award_time": "2017",
+        "dataIndex": 1
+     }, {
+        "award_info": "计算机网络管理员4级",
         "award_time": "2017",
         "dataIndex": 1
     }],
@@ -80,7 +80,7 @@
         "project_role": "网络实施负责人",
         "project_time": "2023.06 - 2024.09",
         "project_desc": "",
-        "project_content": "\n1.主导IDC网络架构演进，设计并实施从传统三层架构向Spine-Leaf架构的平滑迁移\n2.基于VXLAN+EVPN技术构建IDC网络，实现跨机柜大二层组网，优化东西向流量传输效率\n3.设计并部署Juniper MX204双活核心路由系统，采用EBGP+ECMP构建智能出口选路体系，出口带宽扩容至400Gbps\n4.部署NetFlow流量分析系统，构建基于业务优先级的QoS策略，关键业务SLA达标率提升至99.99%\n5.主导全网设备迭代计划，业务网完成华为/H3C等异构设备向思科Nexus 9000系列全栈迁移",
+        "project_content": "\n1.主导IDC网络架构演进，设计并实施从传统三层架构向Spine-Leaf架构的平滑迁移\n2.基于VXLAN+EVPN技术构建IDC网络，实现跨机柜大二层组网，优化东西向流量传输效率\n3.设计并部署Juniper MX204双活核心路由系统，采用EBGP+ECMP构建智能出口选路体系，出口带宽扩容至400Gbps\n4.主导全网设备迭代计划，业务网完成华为/H3C等异构设备向思科Nexus 9000系列全栈迁移",
         "dataIndex": 0
     }, {
         "project_name": "广州中医药大学",
