@@ -76,13 +76,20 @@
         "dataIndex": 2
     }],
     "projectList": [{
-        "project_name": "香港网络升级",
+        "project_name": "香港IDC网络改造",
         "project_role": "网络实施负责人",
         "project_time": "2023.06 - 2024.09",
         "project_desc": "",
         "project_content": "\n1.主导IDC网络架构演进，设计并实施从传统三层架构向Spine-Leaf架构的平滑迁移\n2.基于VXLAN+EVPN技术构建IDC网络，实现跨机柜大二层组网，优化东西向流量传输效率\n3.设计并部署Juniper MX204双活核心路由系统，采用EBGP+ECMP构建智能出口选路体系，出口带宽扩容至400Gbps\n4.主导全网设备迭代计划，业务网完成华为/H3C等异构设备向思科Nexus 9000系列全栈迁移",
         "dataIndex": 0
     }, {
+        "project_name": "潮州卫生健康职业学院",
+        "project_role": "项目实施负责人",
+        "project_time": "2022.08 - 2023.11",
+        "project_desc": "",
+        "project_content": "\n1.深入与校方沟通部署方案细节，明确需求，及时输出高质量技术文档，确保方案顺利落地\n2.主导设计并实施三层网络架构，构建核心层（双机CSS集群）+汇聚层（堆叠Istack技术）+接入层弹性组网，实现99.99%高可用性‌\n3.部署全方位网络安全防护措施，包括防火墙（双机热备）、IPS 入侵防护、ASG 上网行为管理、HiSec 态势感知、vSAN 漏洞扫描、DAS 日志审计及 UMA 堡垒机，全面提升网络安全性\n4.部署华为eSight网管系统利用 netstream、SNMP 等协议实施实时流量监控和分析，优化流量路径，减少网络延迟，提升整体网络性能",
+        "dataIndex": 1
+    }，{
         "project_name": "广州中医药大学",
         "project_role": "项目实施负责人",
         "project_time": "2021.12 - 2022.06",
