@@ -68,12 +68,12 @@
     }, {
         "skill_name": "主流厂商配置",
         "skill_level": 80,
-        "skill_desc": "主流厂商配置",
+        "skill_desc": "主流厂商配置\nCisco、Huawei、Juniper、H3C等丰富的厂商配置经验",
         "dataIndex": 1
     }, {
         "skill_name": "网络排障",
         "skill_level": 80,
-        "skill_desc": "网络排障",
+        "skill_desc": "网络排障\n拥有各类大中小型网络排障经验",
         "dataIndex": 2
     }],
     "projectList": [{
